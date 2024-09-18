@@ -1,0 +1,1 @@
+Projects of the course "Artifical Neural Networks and Deep Learning". It covered generalisation, computational nature of supervised as well as unsupervised learning in different network types and deep learning algorithms.
